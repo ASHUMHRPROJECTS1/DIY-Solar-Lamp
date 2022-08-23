@@ -192,8 +192,8 @@ friendly!
 > It will automatically charged in Daylight with the help of solar panel
 > and turns on the lamp automatically during night.
 >
-> **[New users will also get some coupons while registering atvia this
-> blue link.]{.ul}**
+> **[New users will also get some coupons while registering at [JLCPCB](https://jlcpcb.com/IYB) via this
+> blue link.]**
 >
 > [**Thank you for reading this guide, hopefully**, **this guide
 > provides full steps to help you to create your own this guide provides
@@ -203,7 +203,7 @@ friendly!
 > comment section below]{.ul}. [If you have any questions please post
 > them in the comment section below]{.ul}.**
 >
-> **[You can also Download the gerber file from here here]{https://cdn.hackaday.io/files/1869447998212096/GerberFiles%20(1).zip}**.
+> **[You can also Download the gerber file from here here](https://cdn.hackaday.io/files/1869447998212096/GerberFiles%20(1).zip)**.
 
 
 ![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image66.png)

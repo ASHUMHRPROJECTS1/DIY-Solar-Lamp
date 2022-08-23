@@ -1,1 +1,225 @@
 # DIY-Solar-Lamp
+
+> Say goodbye to hassle with these DIY Solar lamps.
+
+Save energy by installing a DIY solar lamp in your house. These lamps
+are easy to install and will provide hours of light whenever you need
+it. This is great for when the power goes out or when someone needs some
+light after sunset. These lamps also won\'t cost a thing as they are
+powered by solar energy!
+
+With these lamps, you can forget about expensive electric bills,
+replacement bulbs, and maintenance work that needs to be done on
+traditional lighting sources. It\'s safe, reliable, and environmentally
+friendly!
+
+> Go green today with this amazing solar lamp.
+
+**Supplies:**
+
+> Get all the components ready.
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image3.png)
+
+**Step 1: Get Your PCB Ready!**
+
+
+**Talking about electronics.**
+
+
+> After making the circuit diagram I transformed it into a PCB design to
+> produce it, to produce the PCB, I have chosen the best PCB supplier
+> and the cheapest PCB provider to order my circuit. with thereliable
+> platform, all I need to do is some simple steps which we will talk
+> later.
+>
+> Related Download Files\
+> **As you can see in the pictures above the PCB is very well
+> manufactured and I've got the same PCB assembled with all the
+> components that we want to use for our main board and all the labels
+> and logos are there to guide me during the soldering steps. You can
+> also download the Gerber file for this circuit from the download link
+> below in case you want to place an order for the same circuit
+> design.**
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image6.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image7.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image8.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image9.png)
+
+**Step 2: Place All the Components on PCB and Solder It Properly.**
+
+> Soldering the components to PCB.
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image10.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image11.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image12.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image13.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image14.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image15.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image16.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image17.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image18.png)
+
+
+**Step 3: Making Custom PVC Designed Body.**
+
+> Designing and moulding body.(Dimensions as per your requirement)
+
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image19.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image20.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image21.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image22.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image23.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image24.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image25.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image26.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image27.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image28.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image29.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image30.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image31.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image32.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image33.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image34.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image35.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image36.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image37.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image38.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image39.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image40.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image41.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image42.png)
+
+**Step 4: Sticking Diﬀuser Sheet and Led Strip**
+
+> Sticking Difuser Sheet to the Custom Designed PVC body And Led Strip
+> to Base Plate.
+
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image43.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image44.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image45.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image46.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image47.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image48.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image49.png)
+
+**Step 5: Soldering Remaining Connections & Enclosing the Body**
+
+> Now solder the terminal wires from LED, Battery, and Solar panels. The
+> polarity is marked on the PCB.
+>
+> Then stick all the remaining joints of PVC body with super glue.
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image50.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image51.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image52.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image53.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image54.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image55.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image56.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image57.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image58.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image59.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image60.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image61.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image62.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image63.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image64.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image65.png)
+
+> **Step 6: Testing**
+>
+> Finally testing the DIY Smart Solar Lamp.
+>
+> It will automatically charged in Daylight with the help of solar panel
+> and turns on the lamp automatically during night.
+>
+> **[New users will also get some coupons while registering atvia this
+> blue link.]{.ul}**
+>
+> [**Thank you for reading this guide, hopefully**, **this guide
+> provides full steps to help you to create your own this guide provides
+> full steps to help you to create your own**]{.ul}**DIY**
+>
+> **Solar Lamp[..If you have any questions please post them in the
+> comment section below]{.ul}. [If you have any questions please post
+> them in the comment section below]{.ul}.**
+>
+> **[You can also Download the gerber file from here here]{https://cdn.hackaday.io/files/1869447998212096/GerberFiles%20(1).zip}**.
+
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image66.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image67.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image68.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image69.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image70.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image71.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image72.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image73.png)
+
+![](vertopal_c081d9eda1484a02adcf4f1f2651e74d/media/image74.png)

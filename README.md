@@ -5,7 +5,7 @@
 Save energy by installing a DIY solar lamp in your house. These lamps
 are easy to install and will provide hours of light whenever you need
 it. This is great for when the power goes out or when someone needs some
-light after sunset. These lamps also won\'t cost a thing as they are
+light after sunset. These lamps also won't cost a thing as they are
 powered by solar energy!
 
 With these lamps, you can forget about expensive electric bills,
